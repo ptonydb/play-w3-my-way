@@ -4,6 +4,9 @@ A collection of Witcher 3 modifications, bugfixes, and UI improvements.
 ## Description:
 The Witcher 3 is one of my favorite RPG and is the case for many other's as well. However, this masterpiece has some rough edges that I could not ignore during my playtime. Some modifications are done to improve the gameplay experience for myself and potentially others.
 
+## Notice:
+The game parses each script/bundles from the mods folder as a replacement for the existing original script. Thus I do not claim ownership for entirety of said scripts or bundled game code.
+
 ## List of mods (some are in progress):
 * Faster Stash UI
 * Alls signs can once again effect scaled enemies above baselvl+50 where baselvl is initial player level when completing the base game.
